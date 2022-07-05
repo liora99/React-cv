@@ -1,0 +1,213 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+
+
+
+
+.header, .herzliya {
+  color : white;
+}
+
+.bd{
+  border-radius: 50%;
+}
+
+.herzliya
+ {
+ 	opacity:0.7;
+  text-align: center;
+  font-size: 1.2em;
+ }
+
+
+ .header
+ {
+ 	opacity:0.9;
+  font-size: 1.8em;
+  text-align: left;
+ }
+
+ .ligne
+{
+  color: white;
+}
+
+.bord
+{
+   font-size: 1.3em;
+  color: white;
+  background-color:#515756;
+  border-radius: 20px / 10px;
+}
+
+.second{
+  display: flex;
+	flex-direction:  row;
+	justify-content: flex-start;
+	height: 20px;
+}
+
+
+
+ .change
+ {
+ 	font-weight:bold ;
+ }
+
+ .secClass
+ {
+ 	font-size: 0.7em;
+ 	font-weight:normal;
+ 	background-color:#dde6e4;
+ 	color : black;
+  border: 5px #21bda1 dashed;
+ }
+
+
+.flex{
+  display: flex;
+	flex-direction:  column;
+  justify-content: space-around;
+
+}
+.first{
+  display: flex;
+	flex-direction:  column;
+  justify-content: flex-start;
+  height: 50px;
+}
+
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #000000;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid #000;
+}
+
+.w_dot
+{
+  height: 10px;
+  width: 10px;
+  background-color: #ffffff;
+  border-radius: 50%;
+  display: inline-block;
+  border: 1px solid #000;
+}
+
+.col
+{
+  display: flex;
+	flex-direction:  row;
+  justify-content: space-between;
+  height: 100px;
+}
+
+.row{
+  display: flex;
+	flex-direction:  column;
+  justify-content: flex-start;
+  height: 200px;
+}
+
+.row2{
+  display: flex;
+	flex-direction:  column;
+  justify-content: flex-start;
+  height: 200px;
+}
+
+.conteneur1
+{
+	display: flex;
+	flex-direction:  row;
+	justify-content: space-around;
+	height: 750px;
+}
+
+.conteneur2
+{
+  display: flex;
+  flex-direction:  column;
+  justify-content: space-around;
+  height: 750px;
+}
+
+.conteneur3
+{
+  display: flex;
+  flex-direction:  column;
+  justify-content: space-around;
+  height: 800px;
+}
+
+.head
+{
+  display: flex;
+  flex-direction:  row;
+  justify-content: space-around;
+  height: 100px;
+}
+
+
+/*
+.pol
+{
+	font-size: 0.3em;
+}
+ 
+ 
+
+ 
+
+.rouge
+{
+	border: 3px red solid ;
+}
+
+.vert
+{
+  border: 3px #11e845 solid ;
+}
+
+
+
+
+
+
+.num
+{
+    text-align: left;
+}
+
+.linkedin
+{
+    text-align: center;
+}
+
+.mail
+{
+    text-align: right;
+}
+
+.encadr_foot
+{
+  border: 3px grey solid;
+  background-color:grey;
+}
+*/
